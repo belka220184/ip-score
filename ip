@@ -1,0 +1,14 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
+
+<div id="ip-score-widget"><img src="http://www.ip-score.com/images/ajax-loader.gif" /> Loading...</div>
+
+<script language="JavaScript">
+  ip_score_wdg_tcolor  = "#331111";
+  ip_score_wdg_bcolor  = "#dddddd";
+  ip_score_wdg_bold_tcolor  = "#000066";
+  ip_score_wdg_border_tcolor  = "#333333";
+  ip_score_wdg_width = "200px";
+  ip_score_wdg_font_size  = "10px";
+  ip_score_wdg_line_height  = "12px";
+</script>
+<script language="JavaScript" src="http://www.ip-score.com/api/widget/ip-score-widget/bl:time:host:isp"></script>
